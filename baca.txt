@@ -1,0 +1,4 @@
+1.masuk pipenv shell, ketik pipenv shell di terminal
+2.install requiretment.txt / pipenv install flask flask-sqlalchemy flask-jwt-extended flask-session flask-assets flask-cors flask-marshmallow pymysql python-dotenv (di terminal)
+3.buat database di mariadb/mysql, buka python ketik from app import db, lalu db.create_all()
+4.jalankan flask, ketik di terminal python run.py

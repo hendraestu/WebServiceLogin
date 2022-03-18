@@ -1,0 +1,10 @@
+FLASK_APP=main.py
+FLASK_ENV=development
+
+JWT_SECRET=hendra123
+
+DB_HOST=localhost
+DB_DATABASE=web_service
+DB_USERNAME=root
+DB_PASSWORD=hendra24
+TF_CPP_MIN_LOG_LEVEL=2
